@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_b15c7739d731b4566e6a25b0d8ea78cb" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-audio/include/</compoundname>
+    <innerfile refid="gr__audio__api_8h">gr_audio_api.h</innerfile>
+    <innerfile refid="gr__audio__sink_8h">gr_audio_sink.h</innerfile>
+    <innerfile refid="gr__audio__source_8h">gr_audio_source.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-audio/include/"/>
+  </compounddef>
+</doxygen>

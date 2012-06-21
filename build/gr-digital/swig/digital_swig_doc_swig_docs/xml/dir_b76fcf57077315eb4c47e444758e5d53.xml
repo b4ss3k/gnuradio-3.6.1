@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_b76fcf57077315eb4c47e444758e5d53" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/build/gr-digital/include/</compoundname>
+    <innerfile refid="digital__chunks__to__symbols__bc_8h">digital_chunks_to_symbols_bc.h</innerfile>
+    <innerfile refid="digital__chunks__to__symbols__bf_8h">digital_chunks_to_symbols_bf.h</innerfile>
+    <innerfile refid="digital__chunks__to__symbols__ic_8h">digital_chunks_to_symbols_ic.h</innerfile>
+    <innerfile refid="digital__chunks__to__symbols__if_8h">digital_chunks_to_symbols_if.h</innerfile>
+    <innerfile refid="digital__chunks__to__symbols__sc_8h">digital_chunks_to_symbols_sc.h</innerfile>
+    <innerfile refid="digital__chunks__to__symbols__sf_8h">digital_chunks_to_symbols_sf.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/build/gr-digital/include/"/>
+  </compounddef>
+</doxygen>

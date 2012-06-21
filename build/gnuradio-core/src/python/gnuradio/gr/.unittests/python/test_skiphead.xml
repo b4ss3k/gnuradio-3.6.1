@@ -1,0 +1,10 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="6" time="0.087">
+  <testcase classname="__main__.test_skiphead" name="test_skip_0" time="0.0157"></testcase>
+  <testcase classname="__main__.test_skiphead" name="test_skip_1" time="0.0156"></testcase>
+  <testcase classname="__main__.test_skiphead" name="test_skip_1023" time="0.0161"></testcase>
+  <testcase classname="__main__.test_skiphead" name="test_skip_12678" time="0.0148"></testcase>
+  <testcase classname="__main__.test_skiphead" name="test_skip_6339" time="0.0141"></testcase>
+  <testcase classname="__main__.test_skiphead" name="test_skip_all" time="0.0105"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

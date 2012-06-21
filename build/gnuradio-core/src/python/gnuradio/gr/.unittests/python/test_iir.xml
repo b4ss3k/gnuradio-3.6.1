@@ -1,0 +1,12 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="8" time="0.007">
+  <testcase classname="__main__.test_iir" name="test_iir_direct_001" time="0.0020"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_002" time="0.0005"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_003" time="0.0004"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_004" time="0.0004"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_005" time="0.0004"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_006" time="0.0014"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_007" time="0.0014"></testcase>
+  <testcase classname="__main__.test_iir" name="test_iir_direct_008" time="0.0003"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,38 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="34" time="0.013">
+  <testcase classname="__main__.test_hier_block2" name="test_001_make" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_002_connect_input" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_004_connect_output" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_005_connect_invalid_src_port_exceeds" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_005_connect_output_in_use" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_006_connect_invalid_src_port_neg" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_007_connect_invalid_dst_port_neg" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_008_connect_invalid_dst_port_exceeds" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_009_check_topology" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_010_run" time="0.0019"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_012_disconnect_input" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_013_disconnect_input_not_connected" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_014_disconnect_input_neg" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_015_disconnect_input_exceeds" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_016_disconnect_output" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_017_disconnect_output_not_connected" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_018_disconnect_output_neg" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_019_disconnect_output_exceeds" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_020_run" time="0.0014"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_021_connect_single" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_022_connect_single_with_ports" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_023_connect_single_twice" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_024_disconnect_single" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_025_disconnect_single_not_connected" time="0.0000"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_026_run_single" time="0.0014"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_027a_internally_unconnected_input" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_027b_internally_unconnected_output" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_027c_fully_unconnected_output" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_027d_fully_unconnected_input" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_028_singleton_reconfigure" time="0.0001"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_029_singleton_disconnect" time="0.0014"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_030_nested_input" time="0.0015"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_031_multiple_internal_inputs" time="0.0017"></testcase>
+  <testcase classname="__main__.test_hier_block2" name="test_032_nested_multiple_internal_inputs" time="0.0016"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

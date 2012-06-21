@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_adb01ed92051aeb2cd570cca602c5794" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/volk/cmake/msvc/</compoundname>
+    <innerfile refid="volk_2cmake_2msvc_2config_8h">volk/cmake/msvc/config.h</innerfile>
+    <innerfile refid="inttypes_8h">inttypes.h</innerfile>
+    <innerfile refid="stdint_8h">stdint.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/volk/cmake/msvc/"/>
+  </compounddef>
+</doxygen>

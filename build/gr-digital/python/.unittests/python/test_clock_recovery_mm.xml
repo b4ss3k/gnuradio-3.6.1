@@ -1,0 +1,8 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="4" time="0.008">
+  <testcase classname="__main__.test_clock_recovery_mm" name="test01" time="0.0026"></testcase>
+  <testcase classname="__main__.test_clock_recovery_mm" name="test02" time="0.0016"></testcase>
+  <testcase classname="__main__.test_clock_recovery_mm" name="test03" time="0.0020"></testcase>
+  <testcase classname="__main__.test_clock_recovery_mm" name="test04" time="0.0018"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

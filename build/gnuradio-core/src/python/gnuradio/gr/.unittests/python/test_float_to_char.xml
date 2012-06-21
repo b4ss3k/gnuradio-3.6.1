@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.004">
+  <testcase classname="__main__.test_float_to_char" name="test_001" time="0.0019"></testcase>
+  <testcase classname="__main__.test_float_to_char" name="test_002" time="0.0004"></testcase>
+  <testcase classname="__main__.test_float_to_char" name="test_003" time="0.0016"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

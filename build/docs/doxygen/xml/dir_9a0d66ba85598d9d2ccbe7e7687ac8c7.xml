@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_9a0d66ba85598d9d2ccbe7e7687ac8c7" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-audio/lib/</compoundname>
+    <innerdir refid="dir_0bd38f2fddda3f33a5d98ab1e5b44741">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/alsa/</innerdir>
+    <innerdir refid="dir_c80c767bda72b99feb38a0865d58fa41">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/jack/</innerdir>
+    <innerdir refid="dir_2f8ac724345e6f9ba373a321f60ecf48">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/oss/</innerdir>
+    <innerdir refid="dir_8b4feb68d203f081c41b6448d0d01890">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/osx/</innerdir>
+    <innerdir refid="dir_d177911fdf8dff36a64d0bb46f077dff">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/portaudio/</innerdir>
+    <innerdir refid="dir_a3cfd9bd78401829d40bc5a0af9c8730">/home/zitouni/gnuradio-3.6.1/gr-audio/lib/windows/</innerdir>
+    <innerfile refid="gr__audio__registry_8h">gr_audio_registry.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-audio/lib/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,6 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="0.000">
+  <testcase classname="__main__.test_noise_source" name="test_001" time="0.0001"></testcase>
+  <testcase classname="__main__.test_noise_source" name="test_002" time="0.0000"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

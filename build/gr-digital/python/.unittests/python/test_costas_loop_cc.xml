@@ -1,0 +1,9 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="5" time="0.010">
+  <testcase classname="__main__.test_costas_loop_cc" name="test01" time="0.0008"></testcase>
+  <testcase classname="__main__.test_costas_loop_cc" name="test02" time="0.0021"></testcase>
+  <testcase classname="__main__.test_costas_loop_cc" name="test03" time="0.0021"></testcase>
+  <testcase classname="__main__.test_costas_loop_cc" name="test04" time="0.0024"></testcase>
+  <testcase classname="__main__.test_costas_loop_cc" name="test05" time="0.0023"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

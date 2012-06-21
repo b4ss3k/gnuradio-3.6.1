@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_f7baf068f860780f70991402eca1e903" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gruel/src/</compoundname>
+    <innerdir refid="dir_99a1501ad36eaa4f037c2799280190e0">/home/zitouni/gnuradio-3.6.1/gruel/src/include/</innerdir>
+    <innerdir refid="dir_97d10fd683f5960ee0ef3898677303d9">/home/zitouni/gnuradio-3.6.1/gruel/src/lib/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gruel/src/"/>
+  </compounddef>
+</doxygen>

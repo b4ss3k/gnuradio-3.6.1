@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_31e51a4573c5a230ec6a58a52485c711" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-comedi/</compoundname>
+    <innerdir refid="dir_e4a77eb9bb655e59938cedebe53a8f5e">/home/zitouni/gnuradio-3.6.1/gr-comedi/src/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-comedi/"/>
+  </compounddef>
+</doxygen>

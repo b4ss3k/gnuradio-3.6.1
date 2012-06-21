@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_f6664387c57204e1df07ff9dd35006b0" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-trellis/</compoundname>
+    <innerdir refid="dir_d31d936deff721dacb2559c62814d86a">/home/zitouni/gnuradio-3.6.1/gr-trellis/src/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-trellis/"/>
+  </compounddef>
+</doxygen>

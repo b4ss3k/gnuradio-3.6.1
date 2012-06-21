@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_923fc596049fad2c5ecb49d94d122d1d" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-wavelet/include/wavelet/</compoundname>
+    <innerfile refid="wavelet__api_8h">wavelet_api.h</innerfile>
+    <innerfile refid="wavelet__squash__ff_8h">wavelet_squash_ff.h</innerfile>
+    <innerfile refid="wavelet__wavelet__ff_8h">wavelet_wavelet_ff.h</innerfile>
+    <innerfile refid="wavelet__wvps__ff_8h">wavelet_wvps_ff.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-wavelet/include/wavelet/"/>
+  </compounddef>
+</doxygen>

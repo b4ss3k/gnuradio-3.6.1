@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_29d2c147bf4cb31ffb523f61a70a14d4" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/volk/cmake/</compoundname>
+    <innerdir refid="dir_adb01ed92051aeb2cd570cca602c5794">/home/zitouni/gnuradio-3.6.1/volk/cmake/msvc/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/volk/cmake/"/>
+  </compounddef>
+</doxygen>

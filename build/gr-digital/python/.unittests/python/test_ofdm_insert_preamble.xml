@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.006">
+  <testcase classname="__main__.test_ofdm_insert_preamble" name="test_000" time="0.0030"></testcase>
+  <testcase classname="__main__.test_ofdm_insert_preamble" name="test_001" time="0.0012"></testcase>
+  <testcase classname="__main__.test_ofdm_insert_preamble" name="test_002" time="0.0013"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

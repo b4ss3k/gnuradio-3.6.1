@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.005">
+  <testcase classname="__main__.test_scrambler" name="test_additive_scrambler" time="0.0024"></testcase>
+  <testcase classname="__main__.test_scrambler" name="test_additive_scrambler_reset" time="0.0009"></testcase>
+  <testcase classname="__main__.test_scrambler" name="test_scrambler_descrambler" time="0.0019"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_48ff19df7f1b685baad54c75308742e4" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-shd/include/</compoundname>
+    <innerfile refid="gr__shd__api_8h">gr_shd_api.h</innerfile>
+    <innerfile refid="gr__shd__smini__sink_8h">gr_shd_smini_sink.h</innerfile>
+    <innerfile refid="gr__shd__smini__source_8h">gr_shd_smini_source.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-shd/include/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_744b48cc059feb8b82aa843772ce9047" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gnuradio-core/</compoundname>
+    <innerdir refid="dir_5ef70786dd7917e46cf4424cff633f6e">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gnuradio-core/"/>
+  </compounddef>
+</doxygen>

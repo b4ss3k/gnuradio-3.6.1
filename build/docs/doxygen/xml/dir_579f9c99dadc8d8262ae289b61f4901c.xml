@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_579f9c99dadc8d8262ae289b61f4901c" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/volk/tmpl/</compoundname>
+    <innerfile refid="volk_8tmpl_8h">volk.tmpl.h</innerfile>
+    <innerfile refid="volk__config__fixed_8tmpl_8h">volk_config_fixed.tmpl.h</innerfile>
+    <innerfile refid="volk__cpu_8tmpl_8h">volk_cpu.tmpl.h</innerfile>
+    <innerfile refid="volk__machines_8tmpl_8h">volk_machines.tmpl.h</innerfile>
+    <innerfile refid="volk__typedefs_8tmpl_8h">volk_typedefs.tmpl.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/volk/tmpl/"/>
+  </compounddef>
+</doxygen>

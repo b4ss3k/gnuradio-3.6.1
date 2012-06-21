@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.001">
+  <testcase classname="__main__.test_interp_fir_filter" name="test_fff" time="0.0009"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

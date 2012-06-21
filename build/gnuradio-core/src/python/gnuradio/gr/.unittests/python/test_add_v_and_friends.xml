@@ -1,0 +1,36 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="32" time="0.060">
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vcc_five" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vcc_one" time="0.0019"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vff_five" time="0.0019"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vff_one" time="0.0008"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vii_five" time="0.0009"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vii_one" time="0.0007"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vss_five" time="0.0020"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_const_vss_one" time="0.0008"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vcc_five" time="0.0025"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vcc_one" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vff_five" time="0.0016"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vff_one" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vii_five" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vii_one" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vss_five" time="0.0014"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_add_vss_one" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vcc_five" time="0.0019"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vcc_one" time="0.0018"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vff_five" time="0.0018"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vff_one" time="0.0008"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vii_five" time="0.0019"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vii_one" time="0.0009"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vss_five" time="0.0019"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_const_vss_one" time="0.0018"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vcc_five" time="0.0024"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vcc_one" time="0.0024"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vff_five" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vff_one" time="0.0024"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vii_five" time="0.0023"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vii_one" time="0.0013"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vss_five" time="0.0024"></testcase>
+  <testcase classname="__main__.test_add_v_and_friends" name="test_multiply_vss_one" time="0.0023"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

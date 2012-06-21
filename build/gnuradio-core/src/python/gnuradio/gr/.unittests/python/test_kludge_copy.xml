@@ -1,0 +1,6 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="0.084">
+  <testcase classname="__main__.test_kludge_copy" name="test_001" time="0.0264"></testcase>
+  <testcase classname="__main__.test_kludge_copy" name="test_002" time="0.0571"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_671bfc5f2b02c8713def77bd2a29d9e0" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-video-sdl/</compoundname>
+    <innerdir refid="dir_d41e89c40c567fb795e310b6f552d630">/home/zitouni/gnuradio-3.6.1/gr-video-sdl/src/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-video-sdl/"/>
+  </compounddef>
+</doxygen>

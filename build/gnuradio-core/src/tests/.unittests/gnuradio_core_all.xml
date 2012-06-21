@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
+<TestRun>
+  <FailedTests></FailedTests>
+  <SuccessfulTests>
+    <Test id="1">
+      <Name>qa_gr_vmcircbuf::test_all</Name>
+    </Test>
+    <Test id="2">
+      <Name>qa_gr_io_signature::t0</Name>
+    </Test>
+    <Test id="3">
+      <Name>qa_gr_io_signature::t1</Name>
+    </Test>
+    <Test id="4">
+      <Name>qa_gr_io_signature::t2</Name>
+    </Test>
+    <Test id="5">
+      <Name>qa_gr_io_signature::t3</Name>
+    </Test>
+    <Test id="6">
+      <Name>qa_gr_block::t0</Name>
+    </Test>
+    <Test id="7">
+      <Name>qa_gr_block::t1</Name>
+    </Test>
+    <Test id="8">
+      <Name>qa_gr_block::t2</Name>
+    </Test>
+    <Test id="9">
+      <Name>qa_gr_block::t3</Name>
+    </Test>
+    <Test id="10">
+      <Name>qa_gr_flowgraph::t0</Name>
+    </Test>
+    <Test id="11">
+      <Name>qa_gr_flowgraph::t1_connect</Name>
+    </Test>
+    <Test id="12">
+      <Name>qa_gr_flowgraph::t2_connect_invalid_src_port_neg</Name>
+    </Test>
+    <Test id="13">
+      <Name>qa_gr_flowgraph::t3_connect_src_port_exceeds</Name>
+    </Test>
+    <Test id="14">
+      <Name>qa_gr_flowgraph::t4_connect_invalid_dst_port_neg</Name>
+    </Test>
+    <Test id="15">
+      <Name>qa_gr_flowgraph::t5_connect_dst_port_exceeds</Name>
+    </Test>
+    <Test id="16">
+      <Name>qa_gr_flowgraph::t6_connect_dst_in_use</Name>
+    </Test>
+    <Test id="17">
+      <Name>qa_gr_flowgraph::t7_connect_one_src_two_dst</Name>
+    </Test>
+    <Test id="18">
+      <Name>qa_gr_flowgraph::t8_connect_type_mismatch</Name>
+    </Test>
+    <Test id="19">
+      <Name>qa_gr_flowgraph::t9_disconnect</Name>
+    </Test>
+    <Test id="20">
+      <Name>qa_gr_flowgraph::t10_disconnect_unconnected_block</Name>
+    </Test>
+    <Test id="21">
+      <Name>qa_gr_flowgraph::t11_disconnect_unconnected_port</Name>
+    </Test>
+    <Test id="22">
+      <Name>qa_gr_flowgraph::t12_validate</Name>
+    </Test>
+    <Test id="23">
+      <Name>qa_gr_flowgraph::t13_validate_missing_input_assignment</Name>
+    </Test>
+    <Test id="24">
+      <Name>qa_gr_flowgraph::t14_validate_missing_output_assignment</Name>
+    </Test>
+    <Test id="25">
+      <Name>qa_gr_flowgraph::t15_clear</Name>
+    </Test>
+    <Test id="26">
+      <Name>qa_gr_flowgraph::t16_partition</Name>
+    </Test>
+    <Test id="27">
+      <Name>qa_gr_top_block::t0</Name>
+    </Test>
+    <Test id="28">
+      <Name>qa_gr_top_block::t1_run</Name>
+    </Test>
+    <Test id="29">
+      <Name>qa_gr_top_block::t2_start_stop_wait</Name>
+    </Test>
+    <Test id="30">
+      <Name>qa_gr_top_block::t3_lock_unlock</Name>
+    </Test>
+    <Test id="31">
+      <Name>qa_gr_top_block::t4_reconfigure</Name>
+    </Test>
+    <Test id="32">
+      <Name>qa_gr_hier_block2::test_make</Name>
+    </Test>
+    <Test id="33">
+      <Name>qa_gr_hier_block2_derived::test_1</Name>
+    </Test>
+    <Test id="34">
+      <Name>qa_gr_buffer::t0</Name>
+    </Test>
+    <Test id="35">
+      <Name>qa_gr_buffer::t1</Name>
+    </Test>
+    <Test id="36">
+      <Name>qa_gr_buffer::t2</Name>
+    </Test>
+    <Test id="37">
+      <Name>qa_gr_buffer::t3</Name>
+    </Test>
+    <Test id="38">
+      <Name>qa_gr_buffer::t4</Name>
+    </Test>
+    <Test id="39">
+      <Name>qa_gr_buffer::t5</Name>
+    </Test>
+    <Test id="40">
+      <Name>qa_block_tags::t0</Name>
+    </Test>
+    <Test id="41">
+      <Name>qa_block_tags::t1</Name>
+    </Test>
+    <Test id="42">
+      <Name>qa_block_tags::t2</Name>
+    </Test>
+    <Test id="43">
+      <Name>qa_block_tags::t3</Name>
+    </Test>
+    <Test id="44">
+      <Name>qa_block_tags::t4</Name>
+    </Test>
+    <Test id="45">
+      <Name>qa_block_tags::t5</Name>
+    </Test>
+    <Test id="46">
+      <Name>qa_set_msg_handler::t0</Name>
+    </Test>
+    <Test id="47">
+      <Name>qa_gr_firdes::t1</Name>
+    </Test>
+    <Test id="48">
+      <Name>qa_gr_firdes::t2</Name>
+    </Test>
+    <Test id="49">
+      <Name>qa_gr_firdes::t3</Name>
+    </Test>
+    <Test id="50">
+      <Name>qa_gr_firdes::t4</Name>
+    </Test>
+    <Test id="51">
+      <Name>qa_gr_firdes::t5</Name>
+    </Test>
+    <Test id="52">
+      <Name>qa_gr_firdes::t6</Name>
+    </Test>
+    <Test id="53">
+      <Name>qa_gr_firdes::t7</Name>
+    </Test>
+    <Test id="54">
+      <Name>qa_gr_circular_file::t1</Name>
+    </Test>
+    <Test id="55">
+      <Name>qa_gr_cpm::t1</Name>
+    </Test>
+    <Test id="56">
+      <Name>qa_gr_cpm::t2</Name>
+    </Test>
+    <Test id="57">
+      <Name>qa_gr_cpm::t3</Name>
+    </Test>
+    <Test id="58">
+      <Name>qa_gr_cpm::t4</Name>
+    </Test>
+    <Test id="59">
+      <Name>qa_gr_cpm::t5</Name>
+    </Test>
+    <Test id="60">
+      <Name>qa_gr_fxpt::t0</Name>
+    </Test>
+    <Test id="61">
+      <Name>qa_gr_fxpt::t1</Name>
+    </Test>
+    <Test id="62">
+      <Name>qa_gr_fxpt::t2</Name>
+    </Test>
+    <Test id="63">
+      <Name>qa_gr_fxpt::t3</Name>
+    </Test>
+    <Test id="64">
+      <Name>qa_gr_fxpt_nco::t0</Name>
+    </Test>
+    <Test id="65">
+      <Name>qa_gr_fxpt_nco::t1</Name>
+    </Test>
+    <Test id="66">
+      <Name>qa_gr_fxpt_nco::t2</Name>
+    </Test>
+    <Test id="67">
+      <Name>qa_gr_fxpt_nco::t3</Name>
+    </Test>
+    <Test id="68">
+      <Name>qa_gr_fxpt_vco::t0</Name>
+    </Test>
+    <Test id="69">
+      <Name>qa_gr_fxpt_vco::t1</Name>
+    </Test>
+    <Test id="70">
+      <Name>qa_gr_fxpt_vco::t2</Name>
+    </Test>
+    <Test id="71">
+      <Name>qa_gr_fxpt_vco::t3</Name>
+    </Test>
+    <Test id="72">
+      <Name>qa_gr_math::test_binary_slicer1</Name>
+    </Test>
+    <Test id="73">
+      <Name>qa_gr_math::test_quad_0deg_slicer1</Name>
+    </Test>
+    <Test id="74">
+      <Name>qa_gr_math::test_quad_45deg_slicer1</Name>
+    </Test>
+    <Test id="75">
+      <Name>qa_gri_lfsr::test_lfsr</Name>
+    </Test>
+    <Test id="76">
+      <Name>qa_gri_lfsr::test_scrambler</Name>
+    </Test>
+    <Test id="77">
+      <Name>qa_gri_lfsr::test_descrambler</Name>
+    </Test>
+    <Test id="78">
+      <Name>qa_float_dotprod_x86::t1_3dnow</Name>
+    </Test>
+    <Test id="79">
+      <Name>qa_float_dotprod_x86::t2_3dnow</Name>
+    </Test>
+    <Test id="80">
+      <Name>qa_float_dotprod_x86::t3_3dnow</Name>
+    </Test>
+    <Test id="81">
+      <Name>qa_float_dotprod_x86::t1_sse</Name>
+    </Test>
+    <Test id="82">
+      <Name>qa_float_dotprod_x86::t2_sse</Name>
+    </Test>
+    <Test id="83">
+      <Name>qa_float_dotprod_x86::t3_sse</Name>
+    </Test>
+    <Test id="84">
+      <Name>qa_complex_dotprod_x86::t1_3dnowext</Name>
+    </Test>
+    <Test id="85">
+      <Name>qa_complex_dotprod_x86::t2_3dnowext</Name>
+    </Test>
+    <Test id="86">
+      <Name>qa_complex_dotprod_x86::t3_3dnowext</Name>
+    </Test>
+    <Test id="87">
+      <Name>qa_complex_dotprod_x86::t1_3dnow</Name>
+    </Test>
+    <Test id="88">
+      <Name>qa_complex_dotprod_x86::t2_3dnow</Name>
+    </Test>
+    <Test id="89">
+      <Name>qa_complex_dotprod_x86::t3_3dnow</Name>
+    </Test>
+    <Test id="90">
+      <Name>qa_complex_dotprod_x86::t1_sse</Name>
+    </Test>
+    <Test id="91">
+      <Name>qa_complex_dotprod_x86::t2_sse</Name>
+    </Test>
+    <Test id="92">
+      <Name>qa_complex_dotprod_x86::t3_sse</Name>
+    </Test>
+    <Test id="93">
+      <Name>qa_ccomplex_dotprod_x86::t1_3dnowext</Name>
+    </Test>
+    <Test id="94">
+      <Name>qa_ccomplex_dotprod_x86::t2_3dnowext</Name>
+    </Test>
+    <Test id="95">
+      <Name>qa_ccomplex_dotprod_x86::t3_3dnowext</Name>
+    </Test>
+    <Test id="96">
+      <Name>qa_ccomplex_dotprod_x86::t1_3dnow</Name>
+    </Test>
+    <Test id="97">
+      <Name>qa_ccomplex_dotprod_x86::t2_3dnow</Name>
+    </Test>
+    <Test id="98">
+      <Name>qa_ccomplex_dotprod_x86::t3_3dnow</Name>
+    </Test>
+    <Test id="99">
+      <Name>qa_ccomplex_dotprod_x86::t1_sse</Name>
+    </Test>
+    <Test id="100">
+      <Name>qa_ccomplex_dotprod_x86::t2_sse</Name>
+    </Test>
+    <Test id="101">
+      <Name>qa_ccomplex_dotprod_x86::t3_sse</Name>
+    </Test>
+    <Test id="102">
+      <Name>qa_gr_fir_fff::t1</Name>
+    </Test>
+    <Test id="103">
+      <Name>qa_gr_fir_fff::t2</Name>
+    </Test>
+    <Test id="104">
+      <Name>qa_gr_fir_ccc::t1</Name>
+    </Test>
+    <Test id="105">
+      <Name>qa_gr_fir_fcc::t1</Name>
+    </Test>
+    <Test id="106">
+      <Name>qa_gr_fir_scc::t1</Name>
+    </Test>
+    <Test id="107">
+      <Name>qa_gr_fir_ccf::t1</Name>
+    </Test>
+    <Test id="108">
+      <Name>qa_gri_mmse_fir_interpolator::t1</Name>
+    </Test>
+    <Test id="109">
+      <Name>qa_gri_mmse_fir_interpolator_cc::t1</Name>
+    </Test>
+    <Test id="110">
+      <Name>qa_gr_rotator::t1</Name>
+    </Test>
+    <Test id="111">
+      <Name>qa_gri_fir_filter_with_buffer_ccf::t1</Name>
+    </Test>
+    <Test id="112">
+      <Name>qa_gri_fir_filter_with_buffer_ccf::t2</Name>
+    </Test>
+    <Test id="113">
+      <Name>qa_gri_fir_filter_with_buffer_ccf::t3</Name>
+    </Test>
+    <Test id="114">
+      <Name>qa_gri_fir_filter_with_buffer_ccc::t1</Name>
+    </Test>
+    <Test id="115">
+      <Name>qa_gri_fir_filter_with_buffer_ccc::t2</Name>
+    </Test>
+    <Test id="116">
+      <Name>qa_gri_fir_filter_with_buffer_ccc::t3</Name>
+    </Test>
+    <Test id="117">
+      <Name>qa_gri_fir_filter_with_buffer_fcc::t1</Name>
+    </Test>
+    <Test id="118">
+      <Name>qa_gri_fir_filter_with_buffer_fcc::t2</Name>
+    </Test>
+    <Test id="119">
+      <Name>qa_gri_fir_filter_with_buffer_fcc::t3</Name>
+    </Test>
+    <Test id="120">
+      <Name>qa_gri_fir_filter_with_buffer_fff::t1</Name>
+    </Test>
+    <Test id="121">
+      <Name>qa_gri_fir_filter_with_buffer_fff::t2</Name>
+    </Test>
+    <Test id="122">
+      <Name>qa_gri_fir_filter_with_buffer_fff::t3</Name>
+    </Test>
+    <Test id="123">
+      <Name>qa_gri_fir_filter_with_buffer_fsf::t1</Name>
+    </Test>
+    <Test id="124">
+      <Name>qa_gri_fir_filter_with_buffer_fsf::t2</Name>
+    </Test>
+    <Test id="125">
+      <Name>qa_gri_fir_filter_with_buffer_fsf::t3</Name>
+    </Test>
+    <Test id="126">
+      <Name>qa_gri_fir_filter_with_buffer_scc::t1</Name>
+    </Test>
+    <Test id="127">
+      <Name>qa_gri_fir_filter_with_buffer_scc::t2</Name>
+    </Test>
+    <Test id="128">
+      <Name>qa_gri_fir_filter_with_buffer_scc::t3</Name>
+    </Test>
+  </SuccessfulTests>
+  <Statistics>
+    <Tests>128</Tests>
+    <FailuresTotal>0</FailuresTotal>
+    <Errors>0</Errors>
+    <Failures>0</Failures>
+  </Statistics>
+</TestRun>

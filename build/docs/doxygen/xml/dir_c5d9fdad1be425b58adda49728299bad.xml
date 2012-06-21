@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_c5d9fdad1be425b58adda49728299bad" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/</compoundname>
+    <innerdir refid="dir_933b8d12a937e57b945b0deae37c624c">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/filter/</innerdir>
+    <innerdir refid="dir_633f89925499e029fb7f5ea9b5021724">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/general/</innerdir>
+    <innerdir refid="dir_87f6e2f42a5446d1a4f96185808e79ed">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/gengen/</innerdir>
+    <innerdir refid="dir_8bc669f185f4e2f91a6387dded7aa5b8">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/hier/</innerdir>
+    <innerdir refid="dir_a8640079c5f099338c1e9eb36b1dad8d">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/io/</innerdir>
+    <innerdir refid="dir_0edc0c993a2309b0d2d53d483b166c75">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/missing/</innerdir>
+    <innerdir refid="dir_70ff615960c1c3d9c61c01e1d1d1b3fe">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/reed-solomon/</innerdir>
+    <innerdir refid="dir_dad2bee6bbe881799a4e9f8791317e32">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/runtime/</innerdir>
+    <innerdir refid="dir_67fca452ab8312e09c74f537814d43cc">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/swig/</innerdir>
+    <innerdir refid="dir_3a3574607d8e85ca1ec027540a993478">/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/viterbi/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.002">
+  <testcase classname="__main__.test_simple_framer" name="test_simple_framer_001" time="0.0019"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

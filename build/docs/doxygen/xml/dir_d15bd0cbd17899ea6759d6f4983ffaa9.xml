@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_d15bd0cbd17899ea6759d6f4983ffaa9" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-noaa/</compoundname>
+    <innerdir refid="dir_ed3047c28cc43d1e0f6cef43fd5e9419">/home/zitouni/gnuradio-3.6.1/gr-noaa/lib/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-noaa/"/>
+  </compounddef>
+</doxygen>

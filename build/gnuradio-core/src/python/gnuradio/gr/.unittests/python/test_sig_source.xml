@@ -1,0 +1,14 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="10" time="0.017">
+  <testcase classname="__main__.test_sig_source" name="test_const_f" time="0.0019"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_const_i" time="0.0015"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_cosine_f" time="0.0018"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_saw_c" time="0.0018"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_saw_f" time="0.0016"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_sine_f" time="0.0016"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_sqr_c" time="0.0017"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_sqr_f" time="0.0017"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_tri_c" time="0.0017"></testcase>
+  <testcase classname="__main__.test_sig_source" name="test_tri_f" time="0.0016"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

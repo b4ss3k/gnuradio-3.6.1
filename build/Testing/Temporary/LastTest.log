@@ -1,0 +1,2862 @@
+Start testing: Jun 13 21:42 CEST
+----------------------------------------------------------
+1/120 Testing: qa_volk_test_all
+1/120 Test: qa_volk_test_all
+Command: "/home/zitouni/gnuradio-3.6.1/build/volk/lib/test_all"
+Directory: /home/zitouni/gnuradio-3.6.1/build/volk/lib
+"qa_volk_test_all" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Running 89 test cases...
+Using Volk machine: avx_64
+RUN_VOLK_TESTS: volk_16ic_s32f_deinterleave_real_32f_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_16ic_deinterleave_real_8i_a
+ssse3 completed in 0s
+generic completed in 0s
+Best arch: ssse3
+RUN_VOLK_TESTS: volk_16ic_deinterleave_16i_x2_a
+ssse3 completed in 0s
+sse2 completed in 0s
+generic completed in 0s
+Best arch: ssse3
+RUN_VOLK_TESTS: volk_16ic_s32f_deinterleave_32f_x2_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_16ic_deinterleave_real_16i_a
+ssse3 completed in 0s
+sse2 completed in 0s
+generic completed in 0s
+Best arch: ssse3
+RUN_VOLK_TESTS: volk_16ic_magnitude_16i_a
+sse3 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_16ic_s32f_magnitude_32f_a
+sse3 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_16i_s32f_convert_32f_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_16i_s32f_convert_32f_u
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_16i_convert_8i_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_16i_convert_8i_u
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_16u_byteswap_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_accumulator_s32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_add_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_add_32f_u
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_32f_multiply_32fc_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_s32f_power_32fc_a
+sse completed in 0s
+generic completed in 0.01s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_s32f_calc_spectral_noise_floor_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_s32f_atan2_32f_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_32fc_x2_conjugate_dot_prod_32fc_u
+generic completed in 0s
+sse3 completed in 0s
+Best arch: generic
+RUN_VOLK_TESTS: volk_32fc_deinterleave_32f_x2_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_deinterleave_64f_x2_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32fc_s32f_deinterleave_real_16i_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_deinterleave_real_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_deinterleave_real_64f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32fc_x2_dot_prod_32fc_a
+generic completed in 0s
+sse_64 completed in 0s
+sse3 completed in 0s
+sse4_1 completed in 0s
+Best arch: generic
+RUN_VOLK_TESTS: volk_32fc_index_max_16u_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_s32f_magnitude_16i_a
+sse3 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_magnitude_32f_a
+sse3 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32f_s32f_convert_16i_a
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_s32f_convert_16i_u
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_s32f_convert_32i_a
+avx completed in 0s
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: avx
+RUN_VOLK_TESTS: volk_32f_s32f_convert_32i_u
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_convert_64f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_convert_64f_u
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_s32f_convert_8i_a
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_s32f_convert_8i_u
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32fc_s32f_power_spectrum_32f_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_x2_square_dist_32f_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_x2_s32f_square_dist_scalar_mult_32f_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32f_x2_divide_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_dot_prod_32f_a
+generic completed in 0s
+sse completed in 0s
+sse3 completed in 0s
+sse4_1 completed in 0s
+Best arch: generic
+RUN_VOLK_TESTS: volk_32f_x2_dot_prod_32f_u
+generic completed in 0s
+sse completed in 0s
+sse3 completed in 0s
+sse4_1 completed in 0s
+Best arch: generic
+RUN_VOLK_TESTS: volk_32f_index_max_16u_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_32f_x2_s32f_interleave_16ic_a
+sse2 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32f_x2_interleave_32fc_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_max_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_min_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_s32f_normalize_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_s32f_power_32f_a
+sse4_1 completed in 0.01s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_sqrt_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_s32f_stddev_32f_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_32f_stddev_and_mean_32f_x2_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_32f_x2_subtract_32f_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x3_sum_of_poly_32f_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32i_x2_and_32i_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32i_s32f_convert_32f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32i_s32f_convert_32f_u
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_32i_x2_or_32i_a
+sse completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32u_byteswap_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_64f_convert_32f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_64f_convert_32f_u
+sse2 completed in 0s
+generic completed in 0.01s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_64f_x2_max_64f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_64f_x2_min_64f_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_64u_byteswap_a
+sse2 completed in 0s
+generic completed in 0s
+Best arch: sse2
+RUN_VOLK_TESTS: volk_8ic_deinterleave_16i_x2_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8ic_s32f_deinterleave_32f_x2_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8ic_deinterleave_real_16i_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8ic_s32f_deinterleave_real_32f_a
+sse4_1 completed in 0s
+sse completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8ic_deinterleave_real_8i_a
+ssse3 completed in 0s
+generic completed in 0s
+Best arch: ssse3
+RUN_VOLK_TESTS: volk_8ic_x2_multiply_conjugate_16ic_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8ic_x2_s32f_multiply_conjugate_32fc_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8i_convert_16i_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8i_convert_16i_u
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8i_s32f_convert_32f_a
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_8i_s32f_convert_32f_u
+sse4_1 completed in 0s
+generic completed in 0s
+Best arch: sse4_1
+RUN_VOLK_TESTS: volk_32fc_x2_multiply_32fc_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_x2_multiply_32fc_u
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_x2_multiply_conjugate_32fc_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_x2_multiply_conjugate_32fc_u
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_conjugate_32fc_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_conjugate_32fc_u
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32f_x2_multiply_32f_a
+sse completed in 0s
+avx completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_x2_multiply_32f_u
+sse completed in 0s
+avx completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_s32fc_multiply_32fc_a
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32fc_s32fc_multiply_32fc_u
+sse3 completed in 0s
+generic completed in 0s
+Best arch: sse3
+RUN_VOLK_TESTS: volk_32f_s32f_multiply_32f_a
+sse completed in 0s
+avx completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32f_s32f_multiply_32f_u
+sse completed in 0s
+avx completed in 0s
+generic completed in 0s
+Best arch: sse
+RUN_VOLK_TESTS: volk_32fc_s32fc_rotatorpuppet_32fc_a
+generic completed in 0.01s
+sse4_1 completed in 0s
+avx completed in 0s
+Best arch: sse4_1
+
+*** No errors detected
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"qa_volk_test_all" end time: Jun 13 21:42 CEST
+"qa_volk_test_all" time elapsed: 00:00:00
+----------------------------------------------------------
+
+2/120 Testing: gruel-test
+2/120 Test: gruel-test
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gruel/src/lib/gruel-test_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gruel/src/lib
+"gruel-test" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...............................
+
+<end of output>
+Test time =   0.90 sec
+----------------------------------------------------------
+Test Passed.
+"gruel-test" end time: Jun 13 21:42 CEST
+"gruel-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+3/120 Testing: qa_pmt
+3/120 Test: qa_pmt
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gruel/src/python/qa_pmt_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gruel/src/python
+"qa_pmt" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+((a . 123765))
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pmt" end time: Jun 13 21:42 CEST
+"qa_pmt" time elapsed: 00:00:00
+----------------------------------------------------------
+
+4/120 Testing: gr-core-reed-solomon-test
+4/120 Test: gr-core-reed-solomon-test
+Command: "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/lib/gr_core_rstest"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/lib
+"gr-core-reed-solomon-test" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Testing (3,2) RS codec...OK
+Testing (7,5) RS codec...OK
+Testing (15,11) RS codec...OK
+Testing (31,25) RS codec...OK
+Testing (63,55) RS codec...OK
+Testing (127,117) RS codec...OK
+Testing (255,223) RS codec...OK
+Testing (255,223) RS codec...OK
+All codec tests passed!
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"gr-core-reed-solomon-test" end time: Jun 13 21:42 CEST
+"gr-core-reed-solomon-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+5/120 Testing: gr-core-test-all
+5/120 Test: gr-core-test-all
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/tests/gr-core-test-all_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/tests
+"gr-core-test-all" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Testing gr_vmcircbuf_createfilemapping_factory...
+gr_vmcircbuf_createfilemapping: createfilemapping is not available
+....... gr_vmcircbuf_createfilemapping_factory: Doesn't work
+Testing gr_vmcircbuf_sysv_shm_factory...
+....... gr_vmcircbuf_sysv_shm_factory: OK
+Testing gr_vmcircbuf_mmap_shm_open_factory...
+....... gr_vmcircbuf_mmap_shm_open_factory: OK
+Testing gr_vmcircbuf_mmap_tmpfile_factory...
+....... gr_vmcircbuf_mmap_tmpfile_factory: OK
+...............................Using Volk machine: avx_64
+
+NOTE: This is supposed to produce an error from gr_block_executor
+Error: gr_block_executor: propagation_policy 'ONE-TO-ONE' requires ninputs == noutputs
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow!Ext support; not tested
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+No 3DNow! support; not tested
+ [generic] [SSE]
+ [generic] [SSE]
+ [generic] [SSE]
+ [generic] [SSE]
+ [generic] [SSE]
+ [generic] [SSE]
+>>> gr_fir_fff: using SSE
+>>> gr_fir_ccf: using SSE
+.................................................................................................
+
+<end of output>
+Test time =   3.72 sec
+----------------------------------------------------------
+Test Passed.
+"gr-core-test-all" end time: Jun 13 21:42 CEST
+"gr-core-test-all" time elapsed: 00:00:03
+----------------------------------------------------------
+
+6/120 Testing: qa_add_v_and_friends
+6/120 Test: qa_add_v_and_friends
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_add_v_and_friends_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_add_v_and_friends" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+................................
+----------------------------------------------------------------------
+Ran 32 tests in 0.061s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"qa_add_v_and_friends" end time: Jun 13 21:42 CEST
+"qa_add_v_and_friends" time elapsed: 00:00:00
+----------------------------------------------------------
+
+7/120 Testing: qa_delay
+7/120 Test: qa_delay
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_delay_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_delay" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_delay" end time: Jun 13 21:42 CEST
+"qa_delay" time elapsed: 00:00:00
+----------------------------------------------------------
+
+8/120 Testing: qa_short_to_float
+8/120 Test: qa_short_to_float
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_short_to_float_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_short_to_float" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_short_to_float" end time: Jun 13 21:42 CEST
+"qa_short_to_float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+9/120 Testing: qa_iir
+9/120 Test: qa_iir
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_iir_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_iir" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+........
+----------------------------------------------------------------------
+Ran 8 tests in 0.007s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_iir" end time: Jun 13 21:42 CEST
+"qa_iir" time elapsed: 00:00:00
+----------------------------------------------------------
+
+10/120 Testing: qa_kludge_copy
+10/120 Test: qa_kludge_copy
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_kludge_copy_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_kludge_copy" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.084s
+
+OK
+<end of output>
+Test time =   0.27 sec
+----------------------------------------------------------
+Test Passed.
+"qa_kludge_copy" end time: Jun 13 21:42 CEST
+"qa_kludge_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+11/120 Testing: qa_sig_source
+11/120 Test: qa_sig_source
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_sig_source_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_sig_source" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..........
+----------------------------------------------------------------------
+Ran 10 tests in 0.016s
+
+OK
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"qa_sig_source" end time: Jun 13 21:42 CEST
+"qa_sig_source" time elapsed: 00:00:00
+----------------------------------------------------------
+
+12/120 Testing: qa_multiply_conjugate
+12/120 Test: qa_multiply_conjugate
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_multiply_conjugate_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_multiply_conjugate" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_multiply_conjugate" end time: Jun 13 21:42 CEST
+"qa_multiply_conjugate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+13/120 Testing: qa_diff_encoder
+13/120 Test: qa_diff_encoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_diff_encoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_diff_encoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.055s
+
+OK
+<end of output>
+Test time =   0.21 sec
+----------------------------------------------------------
+Test Passed.
+"qa_diff_encoder" end time: Jun 13 21:42 CEST
+"qa_diff_encoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+14/120 Testing: qa_nlog10
+14/120 Test: qa_nlog10
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_nlog10_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_nlog10" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_nlog10" end time: Jun 13 21:42 CEST
+"qa_nlog10" time elapsed: 00:00:00
+----------------------------------------------------------
+
+15/120 Testing: qa_mute
+15/120 Test: qa_mute
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_mute_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_mute" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_mute" end time: Jun 13 21:42 CEST
+"qa_mute" time elapsed: 00:00:00
+----------------------------------------------------------
+
+16/120 Testing: qa_vector_map
+16/120 Test: qa_vector_map
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_vector_map_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_vector_map" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_vector_map" end time: Jun 13 21:42 CEST
+"qa_vector_map" time elapsed: 00:00:00
+----------------------------------------------------------
+
+17/120 Testing: qa_noise
+17/120 Test: qa_noise
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_noise_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_noise" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_noise" end time: Jun 13 21:42 CEST
+"qa_noise" time elapsed: 00:00:00
+----------------------------------------------------------
+
+18/120 Testing: qa_fft_filter
+18/120 Test: qa_fft_filter
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_fft_filter_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_fft_filter" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Using Volk machine: avx_64
+>>> gr_fir_ccc: using SSE
+...........
+----------------------------------------------------------------------
+Ran 11 tests in 1.515s
+
+OK
+<end of output>
+Test time =   3.21 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fft_filter" end time: Jun 13 21:42 CEST
+"qa_fft_filter" time elapsed: 00:00:03
+----------------------------------------------------------
+
+19/120 Testing: qa_head
+19/120 Test: qa_head
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_head_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_head" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_head" end time: Jun 13 21:42 CEST
+"qa_head" time elapsed: 00:00:00
+----------------------------------------------------------
+
+20/120 Testing: qa_skiphead
+20/120 Test: qa_skiphead
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_skiphead_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_skiphead" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.090s
+
+OK
+<end of output>
+Test time =   0.29 sec
+----------------------------------------------------------
+Test Passed.
+"qa_skiphead" end time: Jun 13 21:42 CEST
+"qa_skiphead" time elapsed: 00:00:00
+----------------------------------------------------------
+
+21/120 Testing: qa_packed_to_unpacked
+21/120 Test: qa_packed_to_unpacked
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_packed_to_unpacked_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_packed_to_unpacked" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...................
+----------------------------------------------------------------------
+Ran 19 tests in 0.030s
+
+OK
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"qa_packed_to_unpacked" end time: Jun 13 21:42 CEST
+"qa_packed_to_unpacked" time elapsed: 00:00:00
+----------------------------------------------------------
+
+22/120 Testing: qa_argmax
+22/120 Test: qa_argmax
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_argmax_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_argmax" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.003s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_argmax" end time: Jun 13 21:42 CEST
+"qa_argmax" time elapsed: 00:00:00
+----------------------------------------------------------
+
+23/120 Testing: qa_vector_sink_source
+23/120 Test: qa_vector_sink_source
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_vector_sink_source_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_vector_sink_source" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_vector_sink_source" end time: Jun 13 21:42 CEST
+"qa_vector_sink_source" time elapsed: 00:00:00
+----------------------------------------------------------
+
+24/120 Testing: qa_fft
+24/120 Test: qa_fft
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_fft_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_fft" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fft" end time: Jun 13 21:42 CEST
+"qa_fft" time elapsed: 00:00:00
+----------------------------------------------------------
+
+25/120 Testing: qa_float_to_short
+25/120 Test: qa_float_to_short
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_float_to_short_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_float_to_short" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_float_to_short" end time: Jun 13 21:42 CEST
+"qa_float_to_short" time elapsed: 00:00:00
+----------------------------------------------------------
+
+26/120 Testing: qa_conjugate
+26/120 Test: qa_conjugate
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_conjugate_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_conjugate" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Using Volk machine: avx_64
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_conjugate" end time: Jun 13 21:42 CEST
+"qa_conjugate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+27/120 Testing: qa_hilbert
+27/120 Test: qa_hilbert
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_hilbert_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_hilbert" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_fff: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_hilbert" end time: Jun 13 21:42 CEST
+"qa_hilbert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+28/120 Testing: qa_pll_freqdet
+28/120 Test: qa_pll_freqdet
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pll_freqdet_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pll_freqdet" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pll_freqdet" end time: Jun 13 21:42 CEST
+"qa_pll_freqdet" time elapsed: 00:00:00
+----------------------------------------------------------
+
+29/120 Testing: qa_add_and_friends
+29/120 Test: qa_add_and_friends
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_add_and_friends_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_add_and_friends" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..............
+----------------------------------------------------------------------
+Ran 14 tests in 0.016s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"qa_add_and_friends" end time: Jun 13 21:42 CEST
+"qa_add_and_friends" time elapsed: 00:00:00
+----------------------------------------------------------
+
+30/120 Testing: qa_agc
+30/120 Test: qa_agc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_agc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_agc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.010s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_agc" end time: Jun 13 21:42 CEST
+"qa_agc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+31/120 Testing: qa_rational_resampler
+31/120 Test: qa_rational_resampler
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_rational_resampler_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_rational_resampler" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_rational_resampler" end time: Jun 13 21:42 CEST
+"qa_rational_resampler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+32/120 Testing: qa_complex_to_xxx
+32/120 Test: qa_complex_to_xxx
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_complex_to_xxx_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_complex_to_xxx" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.......
+----------------------------------------------------------------------
+Ran 7 tests in 0.011s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_complex_to_xxx" end time: Jun 13 21:42 CEST
+"qa_complex_to_xxx" time elapsed: 00:00:00
+----------------------------------------------------------
+
+33/120 Testing: qa_stream_mux
+33/120 Test: qa_stream_mux
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_stream_mux_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_stream_mux" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.014s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_stream_mux" end time: Jun 13 21:42 CEST
+"qa_stream_mux" time elapsed: 00:00:00
+----------------------------------------------------------
+
+34/120 Testing: qa_regenerate
+34/120 Test: qa_regenerate
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_regenerate_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_regenerate" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_regenerate" end time: Jun 13 21:42 CEST
+"qa_regenerate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+35/120 Testing: qa_probe_signal
+35/120 Test: qa_probe_signal
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_probe_signal_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_probe_signal" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_probe_signal" end time: Jun 13 21:42 CEST
+"qa_probe_signal" time elapsed: 00:00:00
+----------------------------------------------------------
+
+36/120 Testing: qa_fsk_stuff
+36/120 Test: qa_fsk_stuff
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_fsk_stuff_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_fsk_stuff" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fsk_stuff" end time: Jun 13 21:42 CEST
+"qa_fsk_stuff" time elapsed: 00:00:00
+----------------------------------------------------------
+
+37/120 Testing: qa_hier_block2
+37/120 Test: qa_hier_block2
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_hier_block2_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_hier_block2" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..................................
+----------------------------------------------------------------------
+Ran 34 tests in 0.015s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"qa_hier_block2" end time: Jun 13 21:42 CEST
+"qa_hier_block2" time elapsed: 00:00:00
+----------------------------------------------------------
+
+38/120 Testing: qa_copy
+38/120 Test: qa_copy
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_copy_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_copy" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_copy" end time: Jun 13 21:42 CEST
+"qa_copy" time elapsed: 00:00:00
+----------------------------------------------------------
+
+39/120 Testing: qa_scrambler
+39/120 Test: qa_scrambler
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_scrambler_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_scrambler" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.005s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_scrambler" end time: Jun 13 21:42 CEST
+"qa_scrambler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+40/120 Testing: qa_int_to_float
+40/120 Test: qa_int_to_float
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_int_to_float_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_int_to_float" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_int_to_float" end time: Jun 13 21:42 CEST
+"qa_int_to_float" time elapsed: 00:00:00
+----------------------------------------------------------
+
+41/120 Testing: qa_ecc_ccsds_27
+41/120 Test: qa_ecc_ccsds_27
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_ecc_ccsds_27_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_ecc_ccsds_27" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_ecc_ccsds_27" end time: Jun 13 21:42 CEST
+"qa_ecc_ccsds_27" time elapsed: 00:00:00
+----------------------------------------------------------
+
+42/120 Testing: qa_pipe_fittings
+42/120 Test: qa_pipe_fittings
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pipe_fittings_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pipe_fittings" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pipe_fittings" end time: Jun 13 21:42 CEST
+"qa_pipe_fittings" time elapsed: 00:00:00
+----------------------------------------------------------
+
+43/120 Testing: qa_udp_sink_source
+43/120 Test: qa_udp_sink_source
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_udp_sink_source_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_udp_sink_source" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 3.008s
+
+OK
+<end of output>
+Test time =   6.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_udp_sink_source" end time: Jun 13 21:42 CEST
+"qa_udp_sink_source" time elapsed: 00:00:06
+----------------------------------------------------------
+
+44/120 Testing: qa_float_to_uchar
+44/120 Test: qa_float_to_uchar
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_float_to_uchar_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_float_to_uchar" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.001s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_float_to_uchar" end time: Jun 13 21:42 CEST
+"qa_float_to_uchar" time elapsed: 00:00:00
+----------------------------------------------------------
+
+45/120 Testing: qa_filter_delay_fc
+45/120 Test: qa_filter_delay_fc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_filter_delay_fc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_filter_delay_fc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_fff: using SSE
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.007s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_filter_delay_fc" end time: Jun 13 21:42 CEST
+"qa_filter_delay_fc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+46/120 Testing: qa_pack_k_bits
+46/120 Test: qa_pack_k_bits
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pack_k_bits_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pack_k_bits" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pack_k_bits" end time: Jun 13 21:42 CEST
+"qa_pack_k_bits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+47/120 Testing: qa_vector_insert
+47/120 Test: qa_vector_insert
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_vector_insert_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_vector_insert" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.198s
+
+OK
+<end of output>
+Test time =   0.50 sec
+----------------------------------------------------------
+Test Passed.
+"qa_vector_insert" end time: Jun 13 21:42 CEST
+"qa_vector_insert" time elapsed: 00:00:00
+----------------------------------------------------------
+
+48/120 Testing: qa_interleave
+48/120 Test: qa_interleave
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_interleave_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_interleave" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.003s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_interleave" end time: Jun 13 21:42 CEST
+"qa_interleave" time elapsed: 00:00:00
+----------------------------------------------------------
+
+49/120 Testing: qa_float_to_int
+49/120 Test: qa_float_to_int
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_float_to_int_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_float_to_int" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_float_to_int" end time: Jun 13 21:42 CEST
+"qa_float_to_int" time elapsed: 00:00:00
+----------------------------------------------------------
+
+50/120 Testing: qa_short_to_char
+50/120 Test: qa_short_to_char
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_short_to_char_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_short_to_char" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.004s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_short_to_char" end time: Jun 13 21:42 CEST
+"qa_short_to_char" time elapsed: 00:00:00
+----------------------------------------------------------
+
+51/120 Testing: qa_repeat
+51/120 Test: qa_repeat
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_repeat_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_repeat" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_repeat" end time: Jun 13 21:42 CEST
+"qa_repeat" time elapsed: 00:00:00
+----------------------------------------------------------
+
+52/120 Testing: qa_frequency_modulator
+52/120 Test: qa_frequency_modulator
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_frequency_modulator_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_frequency_modulator" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_frequency_modulator" end time: Jun 13 21:42 CEST
+"qa_frequency_modulator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+53/120 Testing: qa_max
+53/120 Test: qa_max
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_max_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_max" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_max" end time: Jun 13 21:42 CEST
+"qa_max" time elapsed: 00:00:00
+----------------------------------------------------------
+
+54/120 Testing: qa_dc_blocker
+54/120 Test: qa_dc_blocker
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_dc_blocker_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_dc_blocker" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.005s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_dc_blocker" end time: Jun 13 21:42 CEST
+"qa_dc_blocker" time elapsed: 00:00:00
+----------------------------------------------------------
+
+55/120 Testing: qa_boolean_operators
+55/120 Test: qa_boolean_operators
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_boolean_operators_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_boolean_operators" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+............
+----------------------------------------------------------------------
+Ran 12 tests in 0.017s
+
+OK
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"qa_boolean_operators" end time: Jun 13 21:42 CEST
+"qa_boolean_operators" time elapsed: 00:00:00
+----------------------------------------------------------
+
+56/120 Testing: qa_integrate
+56/120 Test: qa_integrate
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_integrate_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_integrate" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_integrate" end time: Jun 13 21:42 CEST
+"qa_integrate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+57/120 Testing: qa_goertzel
+57/120 Test: qa_goertzel
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_goertzel_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_goertzel" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.007s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_goertzel" end time: Jun 13 21:42 CEST
+"qa_goertzel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+58/120 Testing: qa_wavefile
+58/120 Test: qa_wavefile
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_wavefile_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_wavefile" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_wavefile" end time: Jun 13 21:42 CEST
+"qa_wavefile" time elapsed: 00:00:00
+----------------------------------------------------------
+
+59/120 Testing: qa_message
+59/120 Test: qa_message
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_message_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_message" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+........
+----------------------------------------------------------------------
+Ran 8 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_message" end time: Jun 13 21:42 CEST
+"qa_message" time elapsed: 00:00:00
+----------------------------------------------------------
+
+60/120 Testing: qa_fractional_interpolator
+60/120 Test: qa_fractional_interpolator
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_fractional_interpolator_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_fractional_interpolator" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_fff: using SSE
+>>> gr_fir_ccf: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fractional_interpolator" end time: Jun 13 21:42 CEST
+"qa_fractional_interpolator" time elapsed: 00:00:00
+----------------------------------------------------------
+
+61/120 Testing: qa_single_pole_iir_cc
+61/120 Test: qa_single_pole_iir_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_single_pole_iir_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_single_pole_iir_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_single_pole_iir_cc" end time: Jun 13 21:42 CEST
+"qa_single_pole_iir_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+62/120 Testing: qa_pll_carriertracking
+62/120 Test: qa_pll_carriertracking
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pll_carriertracking_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pll_carriertracking" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.003s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pll_carriertracking" end time: Jun 13 21:42 CEST
+"qa_pll_carriertracking" time elapsed: 00:00:00
+----------------------------------------------------------
+
+63/120 Testing: qa_keep_m_in_n
+63/120 Test: qa_keep_m_in_n
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_keep_m_in_n_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_keep_m_in_n" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_keep_m_in_n" end time: Jun 13 21:42 CEST
+"qa_keep_m_in_n" time elapsed: 00:00:00
+----------------------------------------------------------
+
+64/120 Testing: qa_pll_refout
+64/120 Test: qa_pll_refout
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pll_refout_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pll_refout" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.004s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pll_refout" end time: Jun 13 21:42 CEST
+"qa_pll_refout" time elapsed: 00:00:00
+----------------------------------------------------------
+
+65/120 Testing: qa_pn_correlator_cc
+65/120 Test: qa_pn_correlator_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_pn_correlator_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_pn_correlator_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.016s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pn_correlator_cc" end time: Jun 13 21:42 CEST
+"qa_pn_correlator_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+66/120 Testing: qa_single_pole_iir
+66/120 Test: qa_single_pole_iir
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_single_pole_iir_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_single_pole_iir" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_single_pole_iir" end time: Jun 13 21:42 CEST
+"qa_single_pole_iir" time elapsed: 00:00:00
+----------------------------------------------------------
+
+67/120 Testing: qa_interp_fir_filter
+67/120 Test: qa_interp_fir_filter
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_interp_fir_filter_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_interp_fir_filter" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_fff: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_interp_fir_filter" end time: Jun 13 21:42 CEST
+"qa_interp_fir_filter" time elapsed: 00:00:00
+----------------------------------------------------------
+
+68/120 Testing: qa_float_to_char
+68/120 Test: qa_float_to_char
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_float_to_char_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_float_to_char" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_float_to_char" end time: Jun 13 21:42 CEST
+"qa_float_to_char" time elapsed: 00:00:00
+----------------------------------------------------------
+
+69/120 Testing: qa_diff_phasor_cc
+69/120 Test: qa_diff_phasor_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_diff_phasor_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_diff_phasor_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_diff_phasor_cc" end time: Jun 13 21:42 CEST
+"qa_diff_phasor_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+70/120 Testing: qa_kludged_imports
+70/120 Test: qa_kludged_imports
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_kludged_imports_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_kludged_imports" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.08 sec
+----------------------------------------------------------
+Test Passed.
+"qa_kludged_imports" end time: Jun 13 21:42 CEST
+"qa_kludged_imports" time elapsed: 00:00:00
+----------------------------------------------------------
+
+71/120 Testing: qa_bin_statistics
+71/120 Test: qa_bin_statistics
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_bin_statistics_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_bin_statistics" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_bin_statistics" end time: Jun 13 21:42 CEST
+"qa_bin_statistics" time elapsed: 00:00:00
+----------------------------------------------------------
+
+72/120 Testing: qa_feval
+72/120 Test: qa_feval
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_feval_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_feval" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+........
+----------------------------------------------------------------------
+Ran 8 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"qa_feval" end time: Jun 13 21:42 CEST
+"qa_feval" time elapsed: 00:00:00
+----------------------------------------------------------
+
+73/120 Testing: qa_unpack_k_bits
+73/120 Test: qa_unpack_k_bits
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_unpack_k_bits_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_unpack_k_bits" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_unpack_k_bits" end time: Jun 13 21:42 CEST
+"qa_unpack_k_bits" time elapsed: 00:00:00
+----------------------------------------------------------
+
+74/120 Testing: qa_glfsr_source
+74/120 Test: qa_glfsr_source
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr/qa_glfsr_source_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gnuradio-core/src/python/gnuradio/gr
+"qa_glfsr_source" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.550s
+
+OK
+<end of output>
+Test time =   1.22 sec
+----------------------------------------------------------
+Test Passed.
+"qa_glfsr_source" end time: Jun 13 21:42 CEST
+"qa_glfsr_source" time elapsed: 00:00:01
+----------------------------------------------------------
+
+75/120 Testing: qa_fft
+75/120 Test: qa_fft
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-fft/python/qa_fft_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-fft/python
+"qa_fft" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+gr::fft: can't import wisdom from /home/zitouni/.gr_fftw_wisdom
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.006s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fft" end time: Jun 13 21:42 CEST
+"qa_fft" time elapsed: 00:00:00
+----------------------------------------------------------
+
+76/120 Testing: qa_goertzel
+76/120 Test: qa_goertzel
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-fft/python/qa_goertzel_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-fft/python
+"qa_goertzel" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.008s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_goertzel" end time: Jun 13 21:42 CEST
+"qa_goertzel" time elapsed: 00:00:00
+----------------------------------------------------------
+
+77/120 Testing: atsci-test
+77/120 Test: atsci-test
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-atsc/src/lib/atsci-test_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-atsc/src/lib
+"atsci-test" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+....................  Summary: 0 decoder errors out of 50 trials.
+.  Summary: 0 decoder errors out of 50 trials.
+.  Summary: 0 decoder errors out of 500 trials.
+...........
+
+<end of output>
+Test time =   1.18 sec
+----------------------------------------------------------
+Test Passed.
+"atsci-test" end time: Jun 13 21:42 CEST
+"atsci-test" time elapsed: 00:00:01
+----------------------------------------------------------
+
+78/120 Testing: qa_atsc
+78/120 Test: qa_atsc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-atsc/src/python/qa_atsc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-atsc/src/python
+"qa_atsc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...atsc_viterbi_decoder: new starting offset = 0
+.
+----------------------------------------------------------------------
+Ran 4 tests in 1.053s
+
+OK
+<end of output>
+Test time =   1.17 sec
+----------------------------------------------------------
+Test Passed.
+"qa_atsc" end time: Jun 13 21:42 CEST
+"qa_atsc" time elapsed: 00:00:01
+----------------------------------------------------------
+
+79/120 Testing: qa_bytes_to_syms
+79/120 Test: qa_bytes_to_syms
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_bytes_to_syms_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_bytes_to_syms" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.002s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_bytes_to_syms" end time: Jun 13 21:42 CEST
+"qa_bytes_to_syms" time elapsed: 00:00:00
+----------------------------------------------------------
+
+80/120 Testing: qa_diff_encoder
+80/120 Test: qa_diff_encoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_diff_encoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_diff_encoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.060s
+
+OK
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"qa_diff_encoder" end time: Jun 13 21:42 CEST
+"qa_diff_encoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+81/120 Testing: qa_clock_recovery_mm
+81/120 Test: qa_clock_recovery_mm
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_clock_recovery_mm_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_clock_recovery_mm" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_ccf: using SSE
+>>> gr_fir_fff: using SSE
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.006s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_clock_recovery_mm" end time: Jun 13 21:42 CEST
+"qa_clock_recovery_mm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+82/120 Testing: qa_simple_framer
+82/120 Test: qa_simple_framer
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_simple_framer_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_simple_framer" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_simple_framer" end time: Jun 13 21:42 CEST
+"qa_simple_framer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+83/120 Testing: qa_probe_density
+83/120 Test: qa_probe_density
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_probe_density_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_probe_density" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+0.952431283547
+0.952431283547
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_probe_density" end time: Jun 13 21:42 CEST
+"qa_probe_density" time elapsed: 00:00:00
+----------------------------------------------------------
+
+84/120 Testing: qa_binary_slicer_fb
+84/120 Test: qa_binary_slicer_fb
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_binary_slicer_fb_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_binary_slicer_fb" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_binary_slicer_fb" end time: Jun 13 21:42 CEST
+"qa_binary_slicer_fb" time elapsed: 00:00:00
+----------------------------------------------------------
+
+85/120 Testing: qa_digital
+85/120 Test: qa_digital
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_digital_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_digital" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_digital" end time: Jun 13 21:42 CEST
+"qa_digital" time elapsed: 00:00:00
+----------------------------------------------------------
+
+86/120 Testing: qa_scrambler
+86/120 Test: qa_scrambler
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_scrambler_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_scrambler" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_scrambler" end time: Jun 13 21:42 CEST
+"qa_scrambler" time elapsed: 00:00:00
+----------------------------------------------------------
+
+87/120 Testing: qa_map
+87/120 Test: qa_map
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_map_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_map" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.003s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_map" end time: Jun 13 21:42 CEST
+"qa_map" time elapsed: 00:00:00
+----------------------------------------------------------
+
+88/120 Testing: qa_cpm
+88/120 Test: qa_cpm
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_cpm_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_cpm" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Using Volk machine: avx_64
+>>> gr_fir_fff: using SSE
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.012s
+
+OK
+<end of output>
+Test time =   0.40 sec
+----------------------------------------------------------
+Test Passed.
+"qa_cpm" end time: Jun 13 21:42 CEST
+"qa_cpm" time elapsed: 00:00:00
+----------------------------------------------------------
+
+89/120 Testing: qa_lms_equalizer
+89/120 Test: qa_lms_equalizer
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_lms_equalizer_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_lms_equalizer" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.007s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_lms_equalizer" end time: Jun 13 21:42 CEST
+"qa_lms_equalizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+90/120 Testing: qa_fll_band_edge
+90/120 Test: qa_fll_band_edge
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_fll_band_edge_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_fll_band_edge" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_ccf: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.005s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fll_band_edge" end time: Jun 13 21:42 CEST
+"qa_fll_band_edge" time elapsed: 00:00:00
+----------------------------------------------------------
+
+91/120 Testing: qa_constellation
+91/120 Test: qa_constellation
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_constellation_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_constellation" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.760s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   1.67 sec
+----------------------------------------------------------
+Test Passed.
+"qa_constellation" end time: Jun 13 21:42 CEST
+"qa_constellation" time elapsed: 00:00:01
+----------------------------------------------------------
+
+92/120 Testing: qa_ofdm_insert_preamble
+92/120 Test: qa_ofdm_insert_preamble
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_ofdm_insert_preamble_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_ofdm_insert_preamble" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.006s
+
+OK
+<end of output>
+Test time =   0.14 sec
+----------------------------------------------------------
+Test Passed.
+"qa_ofdm_insert_preamble" end time: Jun 13 21:42 CEST
+"qa_ofdm_insert_preamble" time elapsed: 00:00:00
+----------------------------------------------------------
+
+93/120 Testing: qa_pfb_clock_sync
+93/120 Test: qa_pfb_clock_sync
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_pfb_clock_sync_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_pfb_clock_sync" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_ccf: using SSE
+>>> gr_fir_fff: using SSE
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.007s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pfb_clock_sync" end time: Jun 13 21:42 CEST
+"qa_pfb_clock_sync" time elapsed: 00:00:00
+----------------------------------------------------------
+
+94/120 Testing: qa_correlate_access_code
+94/120 Test: qa_correlate_access_code
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_correlate_access_code_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_correlate_access_code" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_correlate_access_code" end time: Jun 13 21:42 CEST
+"qa_correlate_access_code" time elapsed: 00:00:00
+----------------------------------------------------------
+
+95/120 Testing: qa_constellation_decoder_cb
+95/120 Test: qa_constellation_decoder_cb
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_constellation_decoder_cb_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_constellation_decoder_cb" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.002s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_constellation_decoder_cb" end time: Jun 13 21:42 CEST
+"qa_constellation_decoder_cb" time elapsed: 00:00:00
+----------------------------------------------------------
+
+96/120 Testing: qa_mpsk_snr_est
+96/120 Test: qa_mpsk_snr_est
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_mpsk_snr_est_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_mpsk_snr_est" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.225s
+
+OK
+<end of output>
+Test time =   0.56 sec
+----------------------------------------------------------
+Test Passed.
+"qa_mpsk_snr_est" end time: Jun 13 21:42 CEST
+"qa_mpsk_snr_est" time elapsed: 00:00:00
+----------------------------------------------------------
+
+97/120 Testing: qa_constellation_receiver
+97/120 Test: qa_constellation_receiver
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_constellation_receiver_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_constellation_receiver" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_ccf: using SSE
+>>> gr_fir_ccc: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.977s
+
+OK
+Using Volk machine: avx_64
+<end of output>
+Test time =   2.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_constellation_receiver" end time: Jun 13 21:42 CEST
+"qa_constellation_receiver" time elapsed: 00:00:02
+----------------------------------------------------------
+
+98/120 Testing: qa_pn_correlator_cc
+98/120 Test: qa_pn_correlator_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_pn_correlator_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_pn_correlator_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.016s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pn_correlator_cc" end time: Jun 13 21:42 CEST
+"qa_pn_correlator_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+99/120 Testing: qa_cma_equalizer
+99/120 Test: qa_cma_equalizer
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_cma_equalizer_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_cma_equalizer" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.010s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_cma_equalizer" end time: Jun 13 21:42 CEST
+"qa_cma_equalizer" time elapsed: 00:00:00
+----------------------------------------------------------
+
+100/120 Testing: qa_diff_phasor_cc
+100/120 Test: qa_diff_phasor_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_diff_phasor_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_diff_phasor_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.001s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_diff_phasor_cc" end time: Jun 13 21:42 CEST
+"qa_diff_phasor_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+101/120 Testing: qa_mpsk_receiver
+101/120 Test: qa_mpsk_receiver
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_mpsk_receiver_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_mpsk_receiver" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+>>> gr_fir_ccf: using SSE
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.008s
+
+OK
+<end of output>
+Test time =   0.16 sec
+----------------------------------------------------------
+Test Passed.
+"qa_mpsk_receiver" end time: Jun 13 21:42 CEST
+"qa_mpsk_receiver" time elapsed: 00:00:00
+----------------------------------------------------------
+
+102/120 Testing: qa_framer_sink
+102/120 Test: qa_framer_sink
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_framer_sink_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_framer_sink" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.004s
+
+OK
+<end of output>
+Test time =   0.12 sec
+----------------------------------------------------------
+Test Passed.
+"qa_framer_sink" end time: Jun 13 21:42 CEST
+"qa_framer_sink" time elapsed: 00:00:00
+----------------------------------------------------------
+
+103/120 Testing: qa_crc32
+103/120 Test: qa_crc32
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_crc32_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_crc32" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+...
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_crc32" end time: Jun 13 21:42 CEST
+"qa_crc32" time elapsed: 00:00:00
+----------------------------------------------------------
+
+104/120 Testing: qa_costas_loop_cc
+104/120 Test: qa_costas_loop_cc
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_costas_loop_cc_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_costas_loop_cc" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.....
+----------------------------------------------------------------------
+Ran 5 tests in 0.009s
+
+OK
+<end of output>
+Test time =   0.15 sec
+----------------------------------------------------------
+Test Passed.
+"qa_costas_loop_cc" end time: Jun 13 21:42 CEST
+"qa_costas_loop_cc" time elapsed: 00:00:00
+----------------------------------------------------------
+
+105/120 Testing: qa_glfsr_source
+105/120 Test: qa_glfsr_source
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_glfsr_source_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_glfsr_source" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.548s
+
+OK
+<end of output>
+Test time =   1.24 sec
+----------------------------------------------------------
+Test Passed.
+"qa_glfsr_source" end time: Jun 13 21:42 CEST
+"qa_glfsr_source" time elapsed: 00:00:01
+----------------------------------------------------------
+
+106/120 Testing: qa_chunks_to_symbols
+106/120 Test: qa_chunks_to_symbols
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-digital/python/qa_chunks_to_symbols_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-digital/python
+"qa_chunks_to_symbols" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.005s
+
+OK
+<end of output>
+Test time =   0.13 sec
+----------------------------------------------------------
+Test Passed.
+"qa_chunks_to_symbols" end time: Jun 13 21:42 CEST
+"qa_chunks_to_symbols" time elapsed: 00:00:00
+----------------------------------------------------------
+
+107/120 Testing: qa_pager
+107/120 Test: qa_pager
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-pager/python/qa_pager_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-pager/python
+"qa_pager" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+
+----------------------------------------------------------------------
+Ran 0 tests in 0.000s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_pager" end time: Jun 13 21:42 CEST
+"qa_pager" time elapsed: 00:00:00
+----------------------------------------------------------
+
+108/120 Testing: qa_qtgui
+108/120 Test: qa_qtgui
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-qtgui/python/qa_qtgui_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-qtgui/python
+"qa_qtgui" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+gri_fftw: can't import wisdom from /home/zitouni/.gr_fftw_wisdom
+..
+----------------------------------------------------------------------
+Ran 2 tests in 0.033s
+
+OK
+<end of output>
+Test time =   2.22 sec
+----------------------------------------------------------
+Test Passed.
+"qa_qtgui" end time: Jun 13 21:42 CEST
+"qa_qtgui" time elapsed: 00:00:02
+----------------------------------------------------------
+
+109/120 Testing: qa_trellis
+109/120 Test: qa_trellis
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-trellis/src/python/qa_trellis_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-trellis/src/python
+"qa_trellis" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+......
+----------------------------------------------------------------------
+Ran 6 tests in 0.037s
+
+OK
+<end of output>
+Test time =   0.22 sec
+----------------------------------------------------------
+Test Passed.
+"qa_trellis" end time: Jun 13 21:42 CEST
+"qa_trellis" time elapsed: 00:00:00
+----------------------------------------------------------
+
+110/120 Testing: qa_video_sdl
+110/120 Test: qa_video_sdl
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-video-sdl/src/qa_video_sdl_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-video-sdl/src
+"qa_video_sdl" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.34 sec
+----------------------------------------------------------
+Test Passed.
+"qa_video_sdl" end time: Jun 13 21:42 CEST
+"qa_video_sdl" time elapsed: 00:00:00
+----------------------------------------------------------
+
+111/120 Testing: qa_g723_24_vocoder
+111/120 Test: qa_g723_24_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_g723_24_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_g723_24_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_g723_24_vocoder" end time: Jun 13 21:42 CEST
+"qa_g723_24_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+112/120 Testing: qa_codec2_vocoder
+112/120 Test: qa_codec2_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_codec2_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_codec2_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_codec2_vocoder" end time: Jun 13 21:42 CEST
+"qa_codec2_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+113/120 Testing: qa_ulaw_vocoder
+113/120 Test: qa_ulaw_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_ulaw_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_ulaw_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_ulaw_vocoder" end time: Jun 13 21:42 CEST
+"qa_ulaw_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+114/120 Testing: qa_alaw_vocoder
+114/120 Test: qa_alaw_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_alaw_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_alaw_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_alaw_vocoder" end time: Jun 13 21:42 CEST
+"qa_alaw_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+115/120 Testing: qa_gsm_full_rate
+115/120 Test: qa_gsm_full_rate
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_gsm_full_rate_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_gsm_full_rate" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_gsm_full_rate" end time: Jun 13 21:42 CEST
+"qa_gsm_full_rate" time elapsed: 00:00:00
+----------------------------------------------------------
+
+116/120 Testing: qa_cvsd_vocoder
+116/120 Test: qa_cvsd_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_cvsd_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_cvsd_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+Using Volk machine: avx_64
+>>> gr_fir_fff: using SSE
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.10 sec
+----------------------------------------------------------
+Test Passed.
+"qa_cvsd_vocoder" end time: Jun 13 21:42 CEST
+"qa_cvsd_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+117/120 Testing: qa_g723_40_vocoder
+117/120 Test: qa_g723_40_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_g723_40_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_g723_40_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_g723_40_vocoder" end time: Jun 13 21:42 CEST
+"qa_g723_40_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+118/120 Testing: qa_g721_vocoder
+118/120 Test: qa_g721_vocoder
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python/qa_g721_vocoder_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-vocoder/python
+"qa_g721_vocoder" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.09 sec
+----------------------------------------------------------
+Test Passed.
+"qa_g721_vocoder" end time: Jun 13 21:42 CEST
+"qa_g721_vocoder" time elapsed: 00:00:00
+----------------------------------------------------------
+
+119/120 Testing: qa_fcd
+119/120 Test: qa_fcd
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-fcd/python/qa_fcd_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-fcd/python
+"qa_fcd" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+.
+----------------------------------------------------------------------
+Ran 1 test in 0.000s
+
+OK
+<end of output>
+Test time =   0.11 sec
+----------------------------------------------------------
+Test Passed.
+"qa_fcd" end time: Jun 13 21:42 CEST
+"qa_fcd" time elapsed: 00:00:00
+----------------------------------------------------------
+
+120/120 Testing: qa_classify
+120/120 Test: qa_classify
+Command: "/bin/sh" "/home/zitouni/gnuradio-3.6.1/build/gr-wavelet/python/qa_classify_test.sh"
+Directory: /home/zitouni/gnuradio-3.6.1/build/gr-wavelet/python
+"qa_classify" start time: Jun 13 21:42 CEST
+Output:
+----------------------------------------------------------
+....
+----------------------------------------------------------------------
+Ran 4 tests in 0.006s
+
+OK
+<end of output>
+Test time =   0.26 sec
+----------------------------------------------------------
+Test Passed.
+"qa_classify" end time: Jun 13 21:42 CEST
+"qa_classify" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jun 13 21:42 CEST

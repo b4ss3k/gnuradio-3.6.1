@@ -1,0 +1,12 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="8" time="0.004">
+  <testcase classname="__main__.test_message" name="test_100" time="0.0001"></testcase>
+  <testcase classname="__main__.test_message" name="test_101" time="0.0000"></testcase>
+  <testcase classname="__main__.test_message" name="test_200" time="0.0001"></testcase>
+  <testcase classname="__main__.test_message" name="test_201" time="0.0000"></testcase>
+  <testcase classname="__main__.test_message" name="test_202" time="0.0000"></testcase>
+  <testcase classname="__main__.test_message" name="test_300" time="0.0019"></testcase>
+  <testcase classname="__main__.test_message" name="test_301" time="0.0003"></testcase>
+  <testcase classname="__main__.test_message" name="test_302" time="0.0016"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

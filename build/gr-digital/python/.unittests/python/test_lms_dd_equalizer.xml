@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.007">
+  <testcase classname="__main__.test_lms_dd_equalizer" name="test_001_identity" time="0.0072"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

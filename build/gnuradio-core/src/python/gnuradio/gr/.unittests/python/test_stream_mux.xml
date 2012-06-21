@@ -1,0 +1,10 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="6" time="0.014">
+  <testcase classname="__main__.test_stream_mux" name="test_stream_20N_ff" time="0.0026"></testcase>
+  <testcase classname="__main__.test_stream_mux" name="test_stream_2MN_ff" time="0.0031"></testcase>
+  <testcase classname="__main__.test_stream_mux" name="test_stream_2N0_ff" time="0.0030"></testcase>
+  <testcase classname="__main__.test_stream_mux" name="test_stream_2NM_ff" time="0.0020"></testcase>
+  <testcase classname="__main__.test_stream_mux" name="test_stream_2NN_ff" time="0.0014"></testcase>
+  <testcase classname="__main__.test_stream_mux" name="test_stream_ramp_2NN_ff" time="0.0014"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_851a7c83978eeda1c50a486100d29805" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/docs/doxygen/</compoundname>
+    <innerdir refid="dir_706fd2733110ba13148503ef7e08d979">/home/zitouni/gnuradio-3.6.1/docs/doxygen/doxyxml/</innerdir>
+    <innerdir refid="dir_726b9eef5ef6c81da5bee19b350b11f5">/home/zitouni/gnuradio-3.6.1/docs/doxygen/other/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/docs/doxygen/"/>
+  </compounddef>
+</doxygen>

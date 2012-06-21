@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_3355a6b659f9dd36bc6598eec92c9b7e" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-uhd/examples/c++/</compoundname>
+    <innerfile refid="tag__sink__demo_8h">tag_sink_demo.h</innerfile>
+    <innerfile refid="tag__source__demo_8h">tag_source_demo.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-uhd/examples/c++/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,11 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="7" time="0.011">
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_arg" time="0.0023"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_float_1" time="0.0018"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_float_2" time="0.0008"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_imag" time="0.0017"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_mag" time="0.0017"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_mag_squared" time="0.0007"></testcase>
+  <testcase classname="__main__.test_complex_ops" name="test_complex_to_real" time="0.0017"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

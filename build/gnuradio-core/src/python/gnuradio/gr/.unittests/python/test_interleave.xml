@@ -1,0 +1,6 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="0.005">
+  <testcase classname="__main__.test_interleave" name="test_deint_001" time="0.0026"></testcase>
+  <testcase classname="__main__.test_interleave" name="test_int_001" time="0.0020"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,10 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="6" time="0.581">
+  <testcase classname="__main__.test_glfsr_source" name="test_000_make_b" time="0.0001"></testcase>
+  <testcase classname="__main__.test_glfsr_source" name="test_001_degree_b" time="0.0001"></testcase>
+  <testcase classname="__main__.test_glfsr_source" name="test_002_correlation_b" time="0.3083"></testcase>
+  <testcase classname="__main__.test_glfsr_source" name="test_003_make_f" time="0.0001"></testcase>
+  <testcase classname="__main__.test_glfsr_source" name="test_004_degree_f" time="0.0001"></testcase>
+  <testcase classname="__main__.test_glfsr_source" name="test_005_correlation_f" time="0.2720"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

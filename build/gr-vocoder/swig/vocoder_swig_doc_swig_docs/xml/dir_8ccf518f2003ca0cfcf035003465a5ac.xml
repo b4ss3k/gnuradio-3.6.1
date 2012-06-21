@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_8ccf518f2003ca0cfcf035003465a5ac" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-vocoder/</compoundname>
+    <innerdir refid="dir_4c41b3f8548568e669153ab27571d9c9">/home/zitouni/gnuradio-3.6.1/gr-vocoder/include/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-vocoder/"/>
+  </compounddef>
+</doxygen>

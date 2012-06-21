@@ -1,0 +1,10 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="6" time="0.059">
+  <testcase classname="__main__.test_cpm" name="test_001_lgmsk" time="0.0410"></testcase>
+  <testcase classname="__main__.test_cpm" name="test_001_lrc" time="0.0013"></testcase>
+  <testcase classname="__main__.test_cpm" name="test_001_lrec" time="0.0021"></testcase>
+  <testcase classname="__main__.test_cpm" name="test_001_lsrc" time="0.0019"></testcase>
+  <testcase classname="__main__.test_cpm" name="test_001_ltfm" time="0.0022"></testcase>
+  <testcase classname="__main__.test_cpm" name="test_phase_response" time="0.0098"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

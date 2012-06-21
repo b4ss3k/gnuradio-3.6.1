@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.005">
+  <testcase classname="__main__.test_mute" name="test_mute_ii" time="0.0018"></testcase>
+  <testcase classname="__main__.test_mute" name="test_unmute_cc" time="0.0015"></testcase>
+  <testcase classname="__main__.test_mute" name="test_unmute_ii" time="0.0014"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

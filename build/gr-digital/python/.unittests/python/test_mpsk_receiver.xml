@@ -1,0 +1,6 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="0.006">
+  <testcase classname="__main__.test_mpsk_receiver" name="test01" time="0.0027"></testcase>
+  <testcase classname="__main__.test_mpsk_receiver" name="test02" time="0.0029"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

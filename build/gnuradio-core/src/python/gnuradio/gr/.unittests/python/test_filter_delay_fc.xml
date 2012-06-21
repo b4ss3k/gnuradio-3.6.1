@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.007">
+  <testcase classname="__main__.test_filter_delay_fc" name="test_001_filter_delay_one_input" time="0.0029"></testcase>
+  <testcase classname="__main__.test_filter_delay_fc" name="test_002_filter_delay_two_inputs" time="0.0021"></testcase>
+  <testcase classname="__main__.test_filter_delay_fc" name="test_003_filter_delay_two_inputs" time="0.0023"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

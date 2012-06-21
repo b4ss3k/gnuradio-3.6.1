@@ -1,0 +1,10 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="6" time="0.007">
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_bc_001" time="0.0019"></testcase>
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_bf_002" time="0.0004"></testcase>
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_ic_003" time="0.0014"></testcase>
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_if_004" time="0.0014"></testcase>
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_sc_005" time="0.0004"></testcase>
+  <testcase classname="__main__.test_chunks_to_symbols" name="test_sf_006" time="0.0015"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

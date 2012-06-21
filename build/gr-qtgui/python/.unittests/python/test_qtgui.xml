@@ -1,0 +1,6 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="2" time="1.510">
+  <testcase classname="__main__.test_qtgui" name="test01" time="1.4932"></testcase>
+  <testcase classname="__main__.test_qtgui" name="test02" time="0.0164"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

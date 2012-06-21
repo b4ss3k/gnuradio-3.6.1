@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.004">
+  <testcase classname="__main__.test_vector_map" name="test_interleaving" time="0.0023"></testcase>
+  <testcase classname="__main__.test_vector_map" name="test_reversing" time="0.0005"></testcase>
+  <testcase classname="__main__.test_vector_map" name="test_vector_to_streams" time="0.0007"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

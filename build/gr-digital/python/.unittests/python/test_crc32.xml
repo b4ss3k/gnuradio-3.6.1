@@ -1,0 +1,7 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="3" time="0.000">
+  <testcase classname="__main__.test_crc32" name="test01" time="0.0002"></testcase>
+  <testcase classname="__main__.test_crc32" name="test02" time="0.0000"></testcase>
+  <testcase classname="__main__.test_crc32" name="test03" time="0.0000"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

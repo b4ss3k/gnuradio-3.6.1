@@ -1,0 +1,16 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="12" time="0.017">
+  <testcase classname="__main__.test_boolean_operators" name="test_and_bb" time="0.0022"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_and_ii" time="0.0018"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_and_ss" time="0.0018"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_not_bb" time="0.0007"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_not_ii" time="0.0006"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_not_ss" time="0.0016"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_or_bb" time="0.0019"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_or_ii" time="0.0006"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_or_ss" time="0.0008"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_xor_bb" time="0.0019"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_xor_ii" time="0.0017"></testcase>
+  <testcase classname="__main__.test_boolean_operators" name="test_xor_ss" time="0.0007"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

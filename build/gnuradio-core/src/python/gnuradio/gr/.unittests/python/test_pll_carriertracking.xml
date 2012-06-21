@@ -1,0 +1,5 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="1" time="0.004">
+  <testcase classname="__main__.test_pll_carriertracking" name="test_pll_carriertracking" time="0.0044"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

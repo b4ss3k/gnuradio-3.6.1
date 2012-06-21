@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_67fca452ab8312e09c74f537814d43cc" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/swig/</compoundname>
+    <innerfile refid="gnuradio__swig__bug__workaround_8h">gnuradio_swig_bug_workaround.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gnuradio-core/src/lib/swig/"/>
+  </compounddef>
+</doxygen>

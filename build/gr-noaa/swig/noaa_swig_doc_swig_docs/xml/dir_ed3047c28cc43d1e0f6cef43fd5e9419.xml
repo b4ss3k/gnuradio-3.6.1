@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_ed3047c28cc43d1e0f6cef43fd5e9419" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-noaa/lib/</compoundname>
+    <innerfile refid="noaa__api_8h">noaa_api.h</innerfile>
+    <innerfile refid="noaa__hrpt_8h">noaa_hrpt.h</innerfile>
+    <innerfile refid="noaa__hrpt__decoder_8h">noaa_hrpt_decoder.h</innerfile>
+    <innerfile refid="noaa__hrpt__deframer_8h">noaa_hrpt_deframer.h</innerfile>
+    <innerfile refid="noaa__hrpt__pll__cf_8h">noaa_hrpt_pll_cf.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-noaa/lib/"/>
+  </compounddef>
+</doxygen>

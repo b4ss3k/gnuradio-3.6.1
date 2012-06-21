@@ -1,0 +1,18 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="14" time="0.015">
+  <testcase classname="__main__.test_add_and_friends" name="test_add_const_cc" time="0.0021"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_add_const_ii" time="0.0004"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_add_ii" time="0.0005"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_div_ff_1" time="0.0004"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_div_ff_2" time="0.0014"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_cc" time="0.0015"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_const_cc" time="0.0006"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_const_cc2" time="0.0006"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_const_ff" time="0.0017"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_const_ii" time="0.0006"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_ff" time="0.0007"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_mult_ii" time="0.0018"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_sub_ii_1" time="0.0016"></testcase>
+  <testcase classname="__main__.test_add_and_friends" name="test_sub_ii_2" time="0.0007"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_d2f344ed43a089b05812f9a456be8de2" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-digital/</compoundname>
+    <innerdir refid="dir_fc5aff23db315f3fafabc8eaf5454480">/home/zitouni/gnuradio-3.6.1/gr-digital/include/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-digital/"/>
+  </compounddef>
+</doxygen>

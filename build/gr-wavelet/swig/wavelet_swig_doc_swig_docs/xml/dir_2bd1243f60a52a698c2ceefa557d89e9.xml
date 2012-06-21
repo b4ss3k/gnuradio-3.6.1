@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_2bd1243f60a52a698c2ceefa557d89e9" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-wavelet/</compoundname>
+    <innerdir refid="dir_e964e2ddcfa57cd618f48b2604c1fc31">/home/zitouni/gnuradio-3.6.1/gr-wavelet/include/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-wavelet/"/>
+  </compounddef>
+</doxygen>

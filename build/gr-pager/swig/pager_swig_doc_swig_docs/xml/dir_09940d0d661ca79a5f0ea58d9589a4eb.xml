@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_09940d0d661ca79a5f0ea58d9589a4eb" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-pager/</compoundname>
+    <innerdir refid="dir_9cd659815718e3fe4762ff2db228c398">/home/zitouni/gnuradio-3.6.1/gr-pager/lib/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-pager/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,8 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="4" time="0.007">
+  <testcase classname="__main__.test_pipe_fittings" name="test_001" time="0.0026"></testcase>
+  <testcase classname="__main__.test_pipe_fittings" name="test_002" time="0.0017"></testcase>
+  <testcase classname="__main__.test_pipe_fittings" name="test_003" time="0.0008"></testcase>
+  <testcase classname="__main__.test_pipe_fittings" name="test_004" time="0.0017"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

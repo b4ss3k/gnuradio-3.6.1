@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_1d746973e42b826ae1f81529481ff5b6" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-uhd/examples/</compoundname>
+    <innerdir refid="dir_3355a6b659f9dd36bc6598eec92c9b7e">/home/zitouni/gnuradio-3.6.1/gr-uhd/examples/c++/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-uhd/examples/"/>
+  </compounddef>
+</doxygen>

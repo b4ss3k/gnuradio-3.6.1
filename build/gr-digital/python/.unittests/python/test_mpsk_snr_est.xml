@@ -1,0 +1,9 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="5" time="0.229">
+  <testcase classname="__main__.test_mpsk_snr_est" name="test_mpsk_snr_est_m2m4" time="0.0602"></testcase>
+  <testcase classname="__main__.test_mpsk_snr_est" name="test_mpsk_snr_est_simple" time="0.0398"></testcase>
+  <testcase classname="__main__.test_mpsk_snr_est" name="test_mpsk_snr_est_skew" time="0.0433"></testcase>
+  <testcase classname="__main__.test_mpsk_snr_est" name="test_mpsk_snr_est_svn" time="0.0426"></testcase>
+  <testcase classname="__main__.test_mpsk_snr_est" name="test_probe_mpsk_snr_est_m2m4" time="0.0430"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

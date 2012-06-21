@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_d177911fdf8dff36a64d0bb46f077dff" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-audio/lib/portaudio/</compoundname>
+    <innerfile refid="audio__portaudio__sink_8h">audio_portaudio_sink.h</innerfile>
+    <innerfile refid="audio__portaudio__source_8h">audio_portaudio_source.h</innerfile>
+    <innerfile refid="gri__portaudio_8h">gri_portaudio.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-audio/lib/portaudio/"/>
+  </compounddef>
+</doxygen>

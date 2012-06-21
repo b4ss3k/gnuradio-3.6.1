@@ -1,0 +1,15 @@
+<testsuite errors="0" failures="0" name="unittest.suite.TestSuite" tests="11" time="1.594">
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_001" time="0.0702"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_002" time="0.0049"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_003" time="0.0047"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_004" time="0.6355"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_005" time="0.3667"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_006" time="0.3912"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_ccc_get0" time="0.0627"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_fff_001" time="0.0035"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_fff_002" time="0.0023"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_fff_003" time="0.0024"></testcase>
+  <testcase classname="__main__.test_fft_filter" name="test_fff_get0" time="0.0495"></testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

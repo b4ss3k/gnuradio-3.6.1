@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_3bb4ab6ac41d00ba488d0a359660193d" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/volk/lib/</compoundname>
+    <innerfile refid="volk_2lib_2gcc__x86__cpuid_8h">volk/lib/gcc_x86_cpuid.h</innerfile>
+    <innerfile refid="volk__rank__archs_8h">volk_rank_archs.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/volk/lib/"/>
+  </compounddef>
+</doxygen>

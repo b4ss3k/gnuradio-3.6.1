@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_d19a3e29f81bd98e375726fdeeceda85" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-fcd/lib/fcd/</compoundname>
+    <innerfile refid="fcd_8h">fcd.h</innerfile>
+    <innerfile refid="fcdhidcmd_8h">fcdhidcmd.h</innerfile>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-fcd/lib/fcd/"/>
+  </compounddef>
+</doxygen>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<doxygen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="compound.xsd" version="1.7.6.1">
+  <compounddef id="dir_bcdd5823db92e1186f3c6d114a314829" kind="dir">
+    <compoundname>/home/zitouni/gnuradio-3.6.1/gr-qtgui/</compoundname>
+    <innerdir refid="dir_9ba4d32aac6e367048b166afd3883628">/home/zitouni/gnuradio-3.6.1/gr-qtgui/include/</innerdir>
+    <briefdescription>
+    </briefdescription>
+    <detaileddescription>
+    </detaileddescription>
+    <location file="/home/zitouni/gnuradio-3.6.1/gr-qtgui/"/>
+  </compounddef>
+</doxygen>

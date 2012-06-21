@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding='ISO-8859-1' standalone='yes' ?>
+<TestRun>
+  <FailedTests></FailedTests>
+  <SuccessfulTests>
+    <Test id="1">
+      <Name>qa_atsci_randomizer::t0_compare_output_maps</Name>
+    </Test>
+    <Test id="2">
+      <Name>qa_atsci_randomizer::t1_initial_states</Name>
+    </Test>
+    <Test id="3">
+      <Name>qa_atsci_randomizer::t2_initial_values</Name>
+    </Test>
+    <Test id="4">
+      <Name>qa_atsci_randomizer::t3_reset</Name>
+    </Test>
+    <Test id="5">
+      <Name>qa_atsci_randomizer::t4_high_level</Name>
+    </Test>
+    <Test id="6">
+      <Name>qa_atsci_reed_solomon::t0_reed_solomon</Name>
+    </Test>
+    <Test id="7">
+      <Name>qa_interleaver_fifo::t0</Name>
+    </Test>
+    <Test id="8">
+      <Name>qa_interleaver_fifo::t1</Name>
+    </Test>
+    <Test id="9">
+      <Name>qa_interleaver_fifo::t2</Name>
+    </Test>
+    <Test id="10">
+      <Name>qa_convolutional_interleaver::t0</Name>
+    </Test>
+    <Test id="11">
+      <Name>qa_convolutional_interleaver::t1</Name>
+    </Test>
+    <Test id="12">
+      <Name>qa_convolutional_interleaver::t2</Name>
+    </Test>
+    <Test id="13">
+      <Name>qa_convolutional_interleaver::t3</Name>
+    </Test>
+    <Test id="14">
+      <Name>qa_convolutional_interleaver::t4</Name>
+    </Test>
+    <Test id="15">
+      <Name>qa_atsci_data_interleaver::t0</Name>
+    </Test>
+    <Test id="16">
+      <Name>qa_atsci_data_interleaver::t1</Name>
+    </Test>
+    <Test id="17">
+      <Name>qa_atsci_basic_trellis_encoder::t0</Name>
+    </Test>
+    <Test id="18">
+      <Name>qa_atsci_basic_trellis_encoder::t1</Name>
+    </Test>
+    <Test id="19">
+      <Name>qa_atsci_sliding_correlator::t0</Name>
+    </Test>
+    <Test id="20">
+      <Name>qa_atsci_fake_single_viterbi::t0</Name>
+    </Test>
+    <Test id="21">
+      <Name>qa_atsci_single_viterbi::t0</Name>
+    </Test>
+    <Test id="22">
+      <Name>qa_atsci_single_viterbi::t1</Name>
+    </Test>
+    <Test id="23">
+      <Name>qa_atsci_trellis_encoder::t0</Name>
+    </Test>
+    <Test id="24">
+      <Name>qa_atsci_trellis_encoder::t1</Name>
+    </Test>
+    <Test id="25">
+      <Name>qa_atsci_viterbi_decoder::t0</Name>
+    </Test>
+    <Test id="26">
+      <Name>qa_atsci_viterbi_decoder::t1</Name>
+    </Test>
+    <Test id="27">
+      <Name>qa_atsci_fs_correlator::t0</Name>
+    </Test>
+    <Test id="28">
+      <Name>qa_atsci_fs_correlator::t1</Name>
+    </Test>
+    <Test id="29">
+      <Name>qa_atsci_fs_correlator::t2</Name>
+    </Test>
+    <Test id="30">
+      <Name>qa_atsci_fs_correlator::t3</Name>
+    </Test>
+    <Test id="31">
+      <Name>qa_atsci_fs_correlator::t4</Name>
+    </Test>
+    <Test id="32">
+      <Name>qa_atsci_equalizer_nop::t0</Name>
+    </Test>
+    <Test id="33">
+      <Name>qa_atsci_equalizer_nop::t1</Name>
+    </Test>
+  </SuccessfulTests>
+  <Statistics>
+    <Tests>33</Tests>
+    <FailuresTotal>0</FailuresTotal>
+    <Errors>0</Errors>
+    <Failures>0</Failures>
+  </Statistics>
+</TestRun>
