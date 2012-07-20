@@ -72,6 +72,10 @@ class error_rate(gr.hier_block2):
 			gr.io_signature(2, 2, gr.sizeof_char),
 			gr.io_signature(1, 1, gr.sizeof_float),
 		)
+		#initialize ber and ser
+		self.ber_= 0
+		self.ser_= 0
+
 		assert type in ('BER', 'SER')
 		self._max_samples = win_size
 		self._bits_per_symbol = bits_per_symbol
@@ -96,6 +100,9 @@ class error_rate(gr.hier_block2):
 		self.connect((self, 1), (inter, 1))
 		self.connect(inter, msg_sink)
 
+		
+	
+
 	def _handler_ber(self, samples):
 		num = len(samples)/2
 		arr = numpy.zeros(num, numpy.float32)
@@ -111,7 +118,12 @@ class error_rate(gr.hier_block2):
 			arr[i] = float(self._num_errs)/float(self._num_samps*self._bits_per_symbol)
 		#write message
 		msg = gr.message_from_string(arr.tostring(), 0, gr.sizeof_float, num)
+#		print "value of BER ", arr[num-1] 
+#		print "number of samples", num
 		self._msgq_source.insert_tail(msg)
+
+		#change value of ber_ which is geted by external programs
+		self.ber_ = arr[num-1]
 
 	def _handler_ser(self, samples):
 		num = len(samples)/2
@@ -135,3 +147,10 @@ class error_rate(gr.hier_block2):
 		#write message
 		msg = gr.message_from_string(arr.tostring(), 0, gr.sizeof_float, num)
 		self._msgq_source.insert_tail(msg)
+
+		#change value of ser_ which is geted by external programs
+		self.ser_ = arr[num-1]
+
+
+
+

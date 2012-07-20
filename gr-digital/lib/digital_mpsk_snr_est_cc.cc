@@ -27,6 +27,7 @@
 #include <digital_mpsk_snr_est_cc.h>
 #include <gr_io_signature.h>
 #include <cstdio>
+#include <iostream>
 
 digital_mpsk_snr_est_cc_sptr
 digital_make_mpsk_snr_est_cc(snr_est_type_t type,
@@ -99,12 +100,14 @@ digital_mpsk_snr_est_cc::work(int noutput_items,
 
     index += x;
     d_count = 0;
+
   }
   
   // Keep track of remaining items and update estimators
   x = noutput_items - index;
   d_count += x;
   d_snr_est->update(x, &in[index]);
+  //std::cout<<"SNR value :"<< d_snr_est->snr()<<"\n";
   
   return noutput_items;
 }
